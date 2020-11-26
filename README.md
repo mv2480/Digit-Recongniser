@@ -16,7 +16,7 @@ In this project we will make a CNN model to recognize digits.
 #### Technologies
 
 - Python
-- Open CV
+- CNN
 
 
 
